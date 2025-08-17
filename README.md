@@ -8,9 +8,4 @@ A Streamlit-based Expense Tracker that helps you record income and expenses, cat
 - Discover your spending habits with **category-wise pie charts**  
 - Export your data into **CSV or PDF** for safekeeping  
 - Enjoy a **clean, minimal design** powered by Streamlit  
-## 🛠️ Getting Started  
 
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
